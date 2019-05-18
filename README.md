@@ -1,1 +1,27 @@
 # sysmanager-fibonacci
+
+Este Projeto foi desenvolvido para atender ao desafio da Sys Manager.
+
+
+## Testes unitários
+
+```sh
+mvn test
+```
+
+## Instalação (Build do pacote)
+
+```sh
+mvn clean package
+```
+
+## Execução
+
+```sh
+java -jar target/sysmanager-fibonacci.jar
+```
+
+
+## Autor
+
+* **Francisco Cardoso** - [https://github.com/kicorj](https://github.com/kicorj)
